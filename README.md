@@ -1,11 +1,11 @@
-Tech Stack
 
-Frontend: React, Tailwind CSS
+  # FMCG Design
 
-Charts: Chart.js / Recharts
+  This is a code bundle for FMCG Design. The original project is available at https://www.figma.com/design/0gdzpaSpkxYkVdqsdWN0Q1/FMCG-Design.
 
-Backend: (Django/Node — depending on your project)
+  ## Running the code
 
-State Management: useState / useEffect
+  Run `npm i` to install the dependencies.
 
-Design: Figma (AI-generated UI components)
+  Run `npm run dev` to start the development server.
+  
